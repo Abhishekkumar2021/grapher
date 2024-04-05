@@ -55,5 +55,9 @@
   "dependencies": {
     "@types/uuid": "^9.0.8",
     "uuid": "^9.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abhishekkumar2021/grapher.git"
   }
 }
