@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.88.0"
   },
+  "icon": "connection.png",
   "categories": [
     "Education",
     "Programming Languages",
