@@ -2,7 +2,7 @@
   "name": "grapher",
   "displayName": "Grapher",
   "description": "A VS code extension to generate & visualize directed graphs.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.88.0"
   },
